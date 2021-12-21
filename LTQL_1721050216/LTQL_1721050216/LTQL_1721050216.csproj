@@ -136,6 +136,7 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\LopHoc216.cs" />
     <Compile Include="Models\LTQLDb.cs" />
+    <Compile Include="Models\PHLSinhVien216.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
