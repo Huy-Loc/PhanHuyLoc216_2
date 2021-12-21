@@ -12,7 +12,7 @@ namespace LTQL_1721050216.Models
         {
         }
 
-
+        public virtual DbSet<LopHoc216> LopHoc216s { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
         }
